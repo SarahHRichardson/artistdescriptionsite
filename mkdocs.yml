@@ -1,0 +1,10 @@
+site_name: My Docs
+theme: 
+  name: readthedocs
+nav:
+  - Home: 'index.md'
+  - Project Overview: 'Overview.md'
+  - Interview Process: 'Preparation.md'
+  - Biography Draft: 'Draft Bio.md'
+  - Biography Final: 'Long Bio.md'
+  - Shortened Statement Final: 'Short Bio.md'
